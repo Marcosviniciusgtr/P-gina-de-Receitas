@@ -1,0 +1,13 @@
+body{
+
+  width: 1280px;
+  height: 1588px;
+}
+
+#page {
+  background-image: url(/Assets/bg-image.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+
+}
